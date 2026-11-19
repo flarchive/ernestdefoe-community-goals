@@ -2,17 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/community-goals.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/community-goals) or the [upstream repository](https://github.com/ernestdefoe/community-goals).
 
-**5** versions archived · Latest: [`1.0.4`](https://github.com/flarchive/ernestdefoe-community-goals/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/ernestdefoe-community-goals/tree/archive/v1.0.5) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0.0` | 2026-11-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-community-goals/tree/archive/v1.0.0) |
-| `1.0.1` | 2026-11-11 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-community-goals/tree/archive/v1.0.1) |
-| `1.0.2` | 2026-11-11 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-community-goals/tree/archive/v1.0.2) |
-| `1.0.3` | 2026-11-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-community-goals/tree/archive/v1.0.3) |
-| `1.0.4` | 2026-11-15 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-community-goals/tree/archive/v1.0.4) |
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-community-goals.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-community-goals.json)
 
